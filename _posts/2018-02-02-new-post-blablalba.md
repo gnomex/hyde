@@ -4,7 +4,7 @@ title: What's Jekyll?
 ---
 
 
-[AKMU](https://en.wikipedia.org/wiki/Akdong_Musician) is a [South Korean](https://en.wikipedia.org/wiki/South_Korea) duo who participated on [K-pop Star 2](https://en.wikipedia.org/wiki/K-pop_Star_2) in 2012 and debuted under [YG Entertainment](https://en.wikipedia.org/wiki/YG_Entertainment) in 2014 after they won the second installment of the [K-pop Star](https://en.wikipedia.org/wiki/K-pop_Star) series. The duo consists of siblings Lee Chan-hyuk and Lee Su-hyun.
+[AKMU](https://en.wikipedia.org/wiki/Akdong_Musician) is a [South Korean](https://en.wikipedia.org/wiki/South_Korea) duo who participated on [K-pop Star 2](https://en.wikipedia.org/wiki/K-pop_Star_2) in 2012 and debuted under [YG Entertainment](https://en.wikipedia.org/wiki/YG_Entertainment) in 2014 after they won the second installment of the [K-pop Star](https://en.wikipedia.org/wiki/K-pop_Star) series. The duo consists of siblings Lee Chan-hyuk and Lee Su-hyun..
 
 
 
