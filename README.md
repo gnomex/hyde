@@ -1,12 +1,6 @@
 # Hyde
 
-#BRIAN, ALLAN< ENZO E GABRIELA ESTIVEAM AQUI!
-
-```javascript
-
-if (ROLF_SATAKE.age >= 60)
-{CONSOLE>LOG("ta velhoo")}
-```
+```php
 
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
@@ -124,3 +118,5 @@ Hyde has two branches, but only one is used for active development.
 Open sourced under the [MIT license](LICENSE.md).
 
 <3
+
+```
